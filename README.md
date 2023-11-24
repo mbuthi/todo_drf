@@ -74,4 +74,4 @@ Describe your API endpoints here, for example:
 - `DELETE /api/delete/:id`: Delete a specific task.
 
 ## Contact
-For any queries, feel free to reach out at [Twitter] (https://twitter.com/MungaiMbuthi).
+For any queries, feel free to reach out at [Twitter](https://twitter.com/MungaiMbuthi).
